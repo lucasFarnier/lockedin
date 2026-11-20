@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1795191614678,
+      "tag": "0000_profiles_and_roles",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1795192110580,
+      "tag": "0001_profile_picture_from_linkedin",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1795195921850,
+      "tag": "0002_profile_enrichment",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1795197425914,
+      "tag": "0003_common_ground_and_messages",
+      "breakpoints": true
+    }
+  ]
+}
